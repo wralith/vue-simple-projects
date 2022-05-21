@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+// Globals
+
+$primary: rgb(235, 94, 85);
+$secondary: rgb(241, 80, 37);
+$accent: rgb(25, 133, 161);
+$light: rgb(208, 209, 172);
+$neutral-gray: rgb(47, 47, 47);
+
+html {
+  background: $neutral-gray;
+  color: $light;
+  font-family: 'Rubik', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: $primary;
+  &:hover {
+    color: darken($primary, 10%);
+  }
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+input {
+  font: inherit;
+  padding: 4px;
+}
