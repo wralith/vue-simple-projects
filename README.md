@@ -13,5 +13,5 @@ You can clone the repo and `npm install` > `npm run dev`.
 - Tried different syntaxes i am not sure if onUpdate is the right method.
 - I loved how css went, but i need to define some global styles.
 
-![todo-gif](https://i.postimg.cc/wv7TQvX4/chrome-capture-todo.gif)
+![todo-gif](https://user-images.githubusercontent.com/75392169/169656075-daba8bb5-bfdd-4cd0-9ea3-ca9f3693dc85.gif)
 
